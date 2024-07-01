@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**8978011938/8978011938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...<h1 align="center">Hi 👋, I'm NUNAVATH ROHITH</h1>
+Hi 👋, I'm NUNAVATH ROHITH</h1>
 <h3 align="center">A passionate Web developer,Word Press developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fbig.php%3Fi%3D1337325&psig=AOvVaw1_9U4-LNd4fQzurljr-nRv&ust=1719898378063000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjr3ISPhYcDFQAAAAAdAAAAABAE">
 
